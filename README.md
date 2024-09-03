@@ -1,6 +1,6 @@
 <h3 align="center">
   <br />
-  <img src="https://github.com/foax-x/go-ethereum-hdwallet/assets/168240/20a63a4b-cb97-4e23-8f59-e89d0fd91882" alt="logo" width="600" />
+  <img src="https://github.com/miguelmota/go-ethereum-hdwallet/assets/168240/20a63a4b-cb97-4e23-8f59-e89d0fd91882" alt="logo" width="600" />
   <br />
   <br />
   <br />
